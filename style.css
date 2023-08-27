@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 100%;
+  height: 100%;
+  background: #eee;
+}
+
+#container {
+  width: 1116px;
+  height: 1116px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #eee;
+  
+}
+
+#card {
+  width: 1116px;
+  height: 1116px;
+  position: relative;
+  user-select: none;
+  background-image: url("Images/better-luck1.jpg");
+}
+
+img,
+canvas {
+  border-radius: 10px;
+}
+
+
