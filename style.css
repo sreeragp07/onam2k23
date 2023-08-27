@@ -11,8 +11,8 @@ body {
 }
 
 #container {
-  width: 1116px;
-  height: 1116px;
+  width: 500px;
+  height: 500px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -21,8 +21,8 @@ body {
 }
 
 #card {
-  width: 1116px;
-  height: 1116px;
+  width: 500px;
+  height: 500px;
   position: relative;
   user-select: none;
   background-image: url("Images/better-luck1.jpg");
